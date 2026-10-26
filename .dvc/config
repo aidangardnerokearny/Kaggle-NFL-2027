@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /home/aidango/code/pythonProjects/Kaggle-NFL-2027/data
